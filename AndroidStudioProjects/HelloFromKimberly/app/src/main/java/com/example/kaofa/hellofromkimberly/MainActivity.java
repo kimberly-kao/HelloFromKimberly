@@ -15,7 +15,13 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ((TextView) findViewById(R.id.textView3)).setTextColor(getResources().getColor(R.color.colorPrimary));            }
+                ((TextView) findViewById(R.id.textView3)).setTextColor(getResources().getColor(R.color.white));            }
+        });
+        findViewById(R.id.button2).setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                findViewById(R.id.rootView).setBackgroundColor(getResources().getColor(R.color.pink));
+            }
         });
     }
 
