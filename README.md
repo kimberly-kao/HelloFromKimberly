@@ -1,4 +1,4 @@
-##HelloFromKimberly
+## HelloFromKimberly
 
 ### App Description
 This is a simple android application. When the "Change Text Color" button is pressed, the text changes from blue to white. When the "Change View Color" button is pressed, the background color changes from blue to pink. 
