@@ -1,7 +1,7 @@
 ## HelloFromKimberly
 
 ### App Description
-This is a simple android application. When the "Change Text Color" button is pressed, the text changes from blue to white. When the "Change View Color" button is pressed, the background color changes from blue to pink. 
+This is a simple android application. When the "Change Text Color" button is pressed, the text changes from blue to white. When the "Change View Color" button is pressed, the background color changes from blue to pink. There is also a change text button that changes the "Hello From Kimberly!" text to whatever the user inputs. If the user leaves the text box blank, the text is automatically changed to "Hello From Kimberly!". To reset everything to its original state (the blue text color and the blue background as well as the text "Hello From Kimberly!") click the background. 
 ### App Walk-though
 ![](AndroidStudioProjects/HelloFromKimberly/Pre-work.gif)
 ### Required User Stories
