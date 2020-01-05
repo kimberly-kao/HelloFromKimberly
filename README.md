@@ -3,12 +3,7 @@
 ### App Description
 This is a simple android application. When the "Change Text Color" button is pressed, the text changes from blue to white. When the "Change View Color" button is pressed, the background color changes from blue to pink. 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
+![](Pre-work.gif)
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
