@@ -3,7 +3,7 @@
 ### App Description
 This is a simple android application. When the "Change Text Color" button is pressed, the text changes from blue to white. When the "Change View Color" button is pressed, the background color changes from blue to pink. 
 ### App Walk-though
-![](Pre-work.gif)
+![](AndroidStudioProjects/HelloFromKimberly/Pre-work.gif)
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
