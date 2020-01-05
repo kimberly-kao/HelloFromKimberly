@@ -3,7 +3,7 @@
 ### App Description
 This is a simple android application. When the "CHANGE TEXT COLOR" button is pressed, the text changes from blue to white. When the "CHANGE VIEW COLOR" button is pressed, the background color changes from blue to pink. There is also a "CHANGE TEXT" button that changes the "Hello From Kimberly!" text to whatever the user inputs. If the user leaves the text box blank, the text is automatically changed to "Hello From Kimberly!". To reset everything to its original state (the blue text color and the blue background as well as the text "Hello From Kimberly!") click the background. 
 ### App Walk-though
-<img src="https://media.giphy.com/media/eiqFDEXiZMQPzBhipf/giphy.gif"width=200><br>
+<img src="https://media.giphy.com/media/eiqFDEXiZMQPzBhipf/giphy.gif" width=200><br>
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
